@@ -47,3 +47,5 @@ Output example:
 
 database_system_SQL: Relational database system modeling a travel reservations service.
 
+phase_1_final_eerd-1.pdf contains enhanced entity relationship diagram used to design the system. phase2final.sql initializes and populates the database. phase3final.sql contains stored procedures for users to register and modify bookings.
+
