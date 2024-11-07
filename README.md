@@ -2,9 +2,9 @@
 
 Examples of my code from various projects and assignments completed during my BS Biology/MS Bioinformatics at Georgia Tech.
 
-## Python Scripts for DNA Seq Analysis
+## Python Scripts for DNA Seq Analysis: DNA_seq_python
 
-DNA_seq_python: Python scripts developed for assignments in a bioinformatics programming course.
+Python scripts developed for assignments in a bioinformatics programming course.
 
 kmer_count.py: Takes in a DNA sequence and value for k, outputs number of occurrences of each k-mer. 
 
@@ -42,6 +42,18 @@ Output example:
 	t-c-ccgccgctaagcagggtc
 	Alignment score:  3
 
+
+palindrome.py: Takes in a DNA sequence and determines whether it is a biological palindrome or not
+
+Run script: 
+	
+	./palindrome.py
+	Enter sequence: CGATCG
+
+Output:
+
+	GCTAGC
+	True
 
 ## Implementing Relational Database with SQL
 
